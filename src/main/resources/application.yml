@@ -1,0 +1,8 @@
+server:
+  port: 8089
+platform:
+  packages: com.zl.s,com.zl.y
+  name: hello
+sc:
+  - cc
+  - dd
